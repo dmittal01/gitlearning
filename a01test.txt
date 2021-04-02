@@ -12,8 +12,12 @@ Test5
 rebaseTest1
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 Checking of second stash 2
+=======
+Checking of the stashing1
+>>>>>>> Stashed changes
 =======
 Checking of the stashing1
 >>>>>>> Stashed changes
