@@ -10,3 +10,6 @@ Test4
 Test5
 
 rebaseTest1
+
+
+Checking of second stash 2
