@@ -7,4 +7,14 @@ Test3
 
 Test4
 
+<<<<<<< Updated upstream
 Test5
+=======
+Test5
+
+rebaseTest1
+
+Checking of the stashing1
+
+Testing with stashing
+>>>>>>> Stashed changes
