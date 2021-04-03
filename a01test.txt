@@ -15,5 +15,4 @@ rebaseTest1
 
 Checking of second stash 2
 Checking of the stashing1
-=======
 Checking of the stashing1
