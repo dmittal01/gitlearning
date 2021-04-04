@@ -1,3 +1,6 @@
 [submodule "submodule1"]
 	path = submodule1
 	url = ./submodule1/
+[submodule "katacoda-scenarios"]
+	path = katacoda-scenarios
+	url = https://github.com/dmittal01/katacoda-scenarios.git
